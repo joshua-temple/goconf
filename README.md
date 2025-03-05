@@ -20,7 +20,7 @@ goconf is a Go tool that provides a CLI and library for generating configuration
 1. Clone the repository:
 
 ```bash
-go install github.com/joshua-temple/goconf@latest
+go install github.com/joshua-temple/goconf/cmd/goconf@latest
 ```
 
 2. Build the CLI:
